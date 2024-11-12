@@ -1,0 +1,28 @@
+Substance,PWTP Influent,PWTP Treated,RWTP Influent,RWTP Treated,STWTP Influent,STWTP Treated,DLR,MCL,2nd MCL,NL,Units
+Aluminum,110,ND,100,ND,62,ND,50,1000,200,NS,ug/L
+Antimony,ND,ND,ND,ND,ND,ND,6,6,NS,NS,ug/L
+Arsenic,2,ND,2,2,2,ND,2,10,NS,NS,ug/L
+Barium,ND,ND,ND,ND,ND,ND,100,1000,NS,NS,ug/L
+Beryllium,ND,ND,ND,ND,ND,ND,1,4,NS,NS,ug/L
+Bromate,NT,ND,NT,NT,NT,2.48,1,10,NS,NS,ug/L
+Cadmium,ND,ND,ND,ND,ND,ND,1,5,NS,NS,ug/L
+Chromium,ND,ND,ND,ND,ND,ND,10,50,NS,NS,ug/L
+Fluoride,ND,0.70,ND,ND,ND,0.62,0.1,2,NS,NS,mg/L
+Mercury,ND,ND,ND,ND,ND,ND,1,2,NS,NS,ug/L
+Nickel,ND,ND,ND,ND,ND,ND,10,100,NS,NS,ug/L
+Nitrate as Nitrogen,ND,ND,ND,ND,ND,0.50,0.4,10,NS,NS,mg/L
+Nitrite as Nitrogen,ND,ND,ND,ND,ND,ND,0.4,1,NS,NS,mg/L
+Perchlorate,ND,ND,ND,ND,ND,ND,1,6,NS,NS,ug/L
+Selenium,ND,ND,ND,ND,ND,ND,5,50,NS,NS,ug/L
+Thallium,ND,ND,ND,ND,ND,ND,1,2,NS,NS,ug/L
+Dibromoacetic Acid,NT,1.3,NT,7.1,NT,2.2,1,NS,NS,NS,ug/L
+Dichloroacetic Acid,NT,2.6,NT,6.5,NT,1.1,1,NS,NS,NS,ug/L
+Monobromoacetic Acid,NT,ND,NT,1.1,NT,ND,1,NS,NS,NS,ug/L
+Monochloroacetic Acid,NT,ND,NT,ND,NT,ND,2,NS,NS,NS,ug/L
+Trichloroacetic Acid,NT,3.6,NT,4.4,NT,ND,1,NS,NS,NS,ug/L
+Total Haloacetic Acids (5),NT,7.6,NT,16.0,NT,3.3,1,60,NS,NS,ug/L
+Bromodichloromethane,NT,9.6,NT,18,NT,10,1,NS,NS,NS,ug/L
+Bromoform,NT,1.5,NT,3.7,NT,6.0,1,NS,NS,NS,ug/L
+Chloroform,NT,11,NT,11,NT,4.6,1,NS,NS,NS,ug/L
+Dibromochloromethane,NT,7.3,NT,15,NT,13,1,NS,NS,NS,ug/L
+Total Trihalomethanes,NS,30,NT,49,NT,34,NS,80,NS,NS,ug/L
